@@ -16,7 +16,7 @@ A voice-enabled AI agent that helps with scheduling and calendar operations usin
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/arsath-eng/Voice-Agent-.git adk-voice-agent
+    git clone https://github.com/arsath-eng/Voice-Agent-.git
     cd adk-voice-agent
     ```
 
@@ -90,3 +90,4 @@ The application will be available at `http://localhost:8000`.
 - Open `http://localhost:8000` in your browser.
 - Connect to the agent.
 - You can interact with Jarvis via voice or text to manage your calendar events.
+
